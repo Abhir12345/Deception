@@ -25,6 +25,11 @@ tqdm
 # === FILE I/O and CLEANING ===
 regex
 beautifulsoup4
+newspaper3k
+lxml-html-clean
+fake-useragent
+aiohttp
+nest_asyncio
 
 # === INTERPRETABILITY ===
 shap                     
