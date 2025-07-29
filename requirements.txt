@@ -1,0 +1,33 @@
+# === CORE ===
+pandas
+numpy
+scikit-learn
+xgboost
+swifter
+
+# === NLP & PSYCHOLINGUISTIC FEATURES ===
+nltk
+textstat                 # Readability indices
+empath                   # Psycholinguistic category analysis
+vaderSentiment
+textblob
+spacy
+spacy-langdetect
+langdetect
+
+# === VISUALIZATION ===
+matplotlib
+seaborn
+wordcloud
+yellowbrick              # Visual diagnostics for ML models
+tqdm
+
+# === FILE I/O and CLEANING ===
+regex
+beautifulsoup4
+
+# === INTERPRETABILITY ===
+shap                     
+
+# === NOTEBOOK === 
+ipython
